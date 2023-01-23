@@ -7,8 +7,7 @@ SELECT * FROM CITY WHERE COUNTRYCODE = 'USA' AND POPULATION > 100000;
 
 /****
 my custom comment. 
-
-author Yash Bhanushali.
+author Yash Bhanushali. haha
 **/
 
 
